@@ -1,0 +1,1 @@
+## Design for Drupal as an integration framework for 3rd party libraries, rather than rebuild those tools in Drupal native form

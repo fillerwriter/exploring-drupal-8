@@ -1,0 +1,1 @@
+## Focus on building (or migrating) Drupal 8 modules as small pluggable tools rather than previous large monolithic solutions
